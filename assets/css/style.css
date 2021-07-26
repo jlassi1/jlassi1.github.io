@@ -666,11 +666,11 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
-.services .icon-box {
+.BlogPosts .icon-box {
   margin-bottom: 20px;
 }
 
-.services .icon {
+.BlogPosts .icon {
   float: left;
   display: flex;
   align-items: center;
@@ -683,36 +683,36 @@ section {
   border: 1px solid #149ddd;
 }
 
-.services .icon i {
+.BlogPosts .icon i {
   color: #fff;
   font-size: 24px;
   line-height: 0;
 }
 
-.services .icon-box:hover .icon {
+.BlogPosts .icon-box:hover .icon {
   background: #fff;
 }
 
-.services .icon-box:hover .icon i {
+.BlogPosts .icon-box:hover .icon i {
   color: #149ddd;
 }
 
-.services .title {
+.BlogPosts .title {
   margin-left: 80px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
 
-.services .title a {
+.BlogPosts .title a {
   color: #343a40;
 }
 
-.services .title a:hover {
+.BlogPosts .title a:hover {
   color: #149ddd;
 }
 
-.services .description {
+.BlogPosts .description {
   margin-left: 80px;
   line-height: 24px;
   font-size: 14px;
