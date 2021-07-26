@@ -1,4 +1,4 @@
 # Personal Website
 
-jlassi1.github.io
+https://jlassi1.github.io/
 
